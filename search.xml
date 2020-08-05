@@ -4,36 +4,11 @@
   
     
     <entry>
-      <title>MobPyschologit001-010</title>
-      <link href="/2020/08/05/MobPyschologit001-010/"/>
-      <url>/2020/08/05/MobPyschologit001-010/</url>
-      
-        <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="Hey, password is required here." /><label>Hey, password is required here.</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="ab9514555aa844f1a0b7eacc598cafc7181066f9eb166be671978962188ee161">e72d36e3aa0997a3eec0a3df2e4b04fc64823872f44969b22c56b1a53ddc53fddaef884a0801d94ea1fcb9a6e05f92a526fa3aa43c035c75759d5cabacf2317e85280e803291fd308f9fda0f60213c77d06d954e150f5f8910c77d566977ff5229a582ef2b2456c25defc95f3ef27dd8506ee85b4d58d92893df1513fbdfc5c3cdbc263231f26c594bb47a9e444385ba707f9281ac410c3476495457daf01a738ff4462161e1fe860b1a4544a96794898a83cd2a162e8463248cf502c357cb128ba2e433a1cdee6b4388eab33370b9c851cb93f284c0c647a313043768ad032bc7d5fbc03b47c889fb3fe0f5f62d65cd7481aa7820d73df0455105f8bcfae8b428c45fdc1f49937b1c0594b4c5c87e41b60e17a84c36e0ffd0761eec116d76b15947d6f18e5ee3da31e65d5341c3311f00539fe97eefb5c3f9606b0c0c087032f9467eb3ed9e59e19555d6c305e0394a079444bbca2a7ff56a53874ff6153a125941ca2ab7fb0ccffc8447eb2569f81563e5b3aef5c95743c804867a6de59b4b3b378f9e559c3820af1f6d5a50f35ec656844c46a7e28b9d72c910e9bcd1727e26370c568f33b38355926c5225cfaff6ea5c668b0e21f7dcf56d758febb72833f69ffdc064bfa03ff5a51a650e729a8cf38f82d7e3c2998a97bbcc4af16a494fe2ee30fd9b5341d8f14ffe0c068ebe297df43115a41a3f4e3665eb9b59f0560420d1358c3eecc63555f9f9998322b0ff8d156a3884d0cd28b78fa348b0155689a76f7b86ce8d31f902b4e937c17fe34114cdcf37660dc7b8848187be0e6dfff1242e25ede93f688b94c96798c5aa012d0e643260dd4a9b9f322ebdd1da7d66f8</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      <categories>
-          
-          <category> MobANDPychologist </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> MobReigen </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2020/08/01/hello-world/"/>
       <url>/2020/08/01/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>So do not worry about tomorrow;<br>For tomorrow will care for itself.<br>Each day has enough trouble of its own.</p>]]></content>
       
       
       
